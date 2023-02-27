@@ -159,15 +159,15 @@
 	</row>
 	<row id="msg_0219_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you a boy?\nOr are you a girl?\fWon’t you please tell me? {YESNO 0}</language>
+		<language name="English">Are you masculine?\nOr are you feminine?\fWon’t you please tell me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’re a boy then? {YESNO 0}</language>
+		<language name="English">So, you’re masculine then? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’re a girl then? {YESNO 0}</language>
+		<language name="English">So, you’re feminine then? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
