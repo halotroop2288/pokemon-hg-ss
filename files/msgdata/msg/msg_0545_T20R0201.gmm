@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0545_T20R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The names of the people you can call\nare automatically registered.\rJust select one to give him or her\na call.\rWow, I can’t believe it’s so easy\nto make a phone call!</language>
+		<language name="English">The names of the people you can call\nare automatically registered.\rJust select one to give them\na call.\rWow, I can’t believe it’s so easy\nto make a phone call!</language>
 	</row>
 	<row id="msg_0545_T20R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
