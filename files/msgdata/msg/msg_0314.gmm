@@ -134,87 +134,87 @@
 	</row>
 	<row id="msg_0314_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Rookie Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Rookie Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Beginning Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Beginning Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Pokéathlete Beginner”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Pokéathlete Beginner”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“An Intermediate Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“An Intermediate Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“An Advanced Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“An Advanced Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Super Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Super Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Remarkable Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Remarkable Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Hotshot Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Hotshot Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Skillful Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Skillful Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Proficient Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Proficient Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“An Elite Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“An Elite Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“An Iron Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“An Iron Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“An Ultra Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“An Ultra Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“The Strongest Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“The Strongest Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“An Invincible Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“An Invincible Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Veteran Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Veteran Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Genius Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Genius Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“An Expert Pokéathlete”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“An Expert Pokéathlete”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Pokéathlete King”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Pokéathlete King”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Pokéathlete Emperor”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Pokéathlete Emperor”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}“A Pokéathlete Master”\n{ALN_CENTER}Qualified for his or her Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
+		<language name="English">{ALN_CENTER}“A Pokéathlete Master”\n{ALN_CENTER}Qualified for their Trophies\n{ALN_CENTER}and friendships with Pokémon.</language>
 	</row>
 	<row id="msg_0314_00054" index="54">
 		<attribute name="window_context_name">used</attribute>

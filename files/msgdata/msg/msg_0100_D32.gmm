@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0100_D32_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When people win a battle, some laugh\nat their opponent.\rSome brag about his or her strengths.\rSome even start to dance around \nclaiming he or she is number one\fin the world.\rI respect people who win and then\ncare about their opponent.</language>
+		<language name="English">When people win a battle, some laugh\nat their opponent.\rSome brag about his or her strengths.\rSome even start to dance around \nclaiming they are number one\fin the world.\rI respect people who win and then\ncare about their opponent.</language>
 	</row>
 	<row id="msg_0100_D32_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
