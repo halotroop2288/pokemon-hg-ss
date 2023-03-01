@@ -349,11 +349,11 @@
 	</row>
 	<row id="msg_0040_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good morning!\nWelcome to the Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your\nPokémon? {YESNO 0}</language>
+		<language name="English">Good morning!\nWelcome to the Pokémon Center.\rWould you like to rest your\nPokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your\nPokémon? {YESNO 0}</language>
+		<language name="English">Welcome to the Pokémon Center.\rWould you like to rest your\nPokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
