@@ -11,7 +11,7 @@
 	</row>
 	<row id="msg_0412_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Always where you need it!\nYour local Pokémon Center!</language>
+		<language name="English">Commercial: Always where you need it!\nYour local PokéCenter!</language>
 	</row>
 	<row id="msg_0412_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -55,11 +55,11 @@
 	</row>
 	<row id="msg_0412_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A fateful encounter that\nbegins in the Pokémon Center...\nA connection between two people...\nIf you climb the stairs, you’ll find it.\nThe Union Room.</language>
+		<language name="English">Commercial: A fateful encounter that\nbegins in the PokéCenter...\nA connection between two people...\nIf you climb the stairs, you’ll find it.\nThe Union Room.</language>
 	</row>
 	<row id="msg_0412_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A fateful encounter that\nbegins in the Pokémon Center...\nA connection between two people...\nIf you take the escalator down, you’ll\nfind it--the Wi-Fi Club.</language>
+		<language name="English">Commercial: A fateful encounter that\nbegins in the PokéCenter...\nA connection between two people...\nIf you take the escalator down, you’ll\nfind it--the Wi-Fi Club.</language>
 	</row>
 	<row id="msg_0412_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
