@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0040_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your\nPokémon?{YESNO 0}</language>
+		<language name="English">Hello, and welcome to\nthe PokéCenter.\rWould you like to rest your\nPokémon?{YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, I’ll take your Pokémon for a few\nseconds.</language>
+		<language name="English">OK, I’ll take your Pokémon for a few\nseconds...</language>
 	</row>
 	<row id="msg_0040_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for waiting.\rWe’ve restored your Pokémon to full\nhealth.\r</language>
+		<language name="English">Your Pokémon are at full health.\r</language>
 	</row>
 	<row id="msg_0040_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0040_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to...\r</language>
+		<language name="English">Hello, and welcome to\nthe PokéCenter.\rWe restore your tired Pokémon\nto full health.\rWould you like to...\r</language>
 	</row>
 	<row id="msg_0040_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0040_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Oh, good! You and your\nPokémon are looking great.\rOh, yes, I heard from Professor Elm.\rHe said that a Pokémon’s energy is\nmeasured in HP (Hit Points).\rIf your Pokémon lose their HP,\nyou can restore it at any\fPokémon Center.\rIf you’re going to travel far away,\nthe smart Trainer stocks up on\fPotions at the Pokémon Mart.\rMake me proud, honey!\nTake care!</language>
+		<language name="English">Mom: Oh, good! You and your\nPokémon are looking great.\rOh, yes, I heard from Professor Elm.\rHe said that a Pokémon’s energy is\nmeasured in HP (Hit Points).\rIf your Pokémon lose their HP,\nyou can restore it at any\fPokéCenter.\rIf you’re going to travel far away,\nthe smart Trainer stocks up on\fPotions at the Pokémon Mart.\rMake me proud, honey!\nTake care!</language>
 	</row>
 	<row id="msg_0040_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -194,7 +194,7 @@
 	</row>
 	<row id="msg_0040_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please visit a Pokémon Center when\nyour Pokémon’s HP goes down.\rIf you’re planning to travel any\ndistance, you should stock up on\fPotions at a Pokémon Mart.\rGood luck, Trainer!</language>
+		<language name="English">Please visit a PokéCenter when\nyour Pokémon’s HP goes down.\rIf you’re planning to travel any\ndistance, you should stock up on\fPotions at a Pokémon Mart.\rGood luck, Trainer!</language>
 	</row>
 	<row id="msg_0040_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
@@ -349,11 +349,11 @@
 	</row>
 	<row id="msg_0040_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good morning!\nWelcome to the Pokémon Center.\rWould you like to rest your\nPokémon? {YESNO 0}</language>
+		<language name="English">Good morning!\nWelcome to the PokéCenter.\rWould you like to rest your\nPokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pokémon Center.\rWould you like to rest your\nPokémon? {YESNO 0}</language>
+		<language name="English">Welcome to the PokéCenter.\rWould you like to rest your\nPokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0040_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
